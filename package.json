@@ -11,7 +11,7 @@
   "homepage": "https://www.udemy.com/course/mernstack-nextjs-withsocketio/?referralCode=A31CAC3FD91000489D0A",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon server.js",
+    "dev": "node server.js",
     "start": "node server"
   },
   "dependencies": {
